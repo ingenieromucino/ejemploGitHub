@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Ejemplo GitHub/FileContentIndex
+/ConsoleApp/ConsoleApp/obj/Debug
+/ConsoleApp/.vs/ConsoleApp/FileContentIndex
